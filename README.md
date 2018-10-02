@@ -4,3 +4,5 @@ Curated awesome backend for frontend pattern presented by [Sam Newman](https://s
 
 
 # Links
+## Talks
+* [Backends for frontends with GraphQL](https://youtu.be/GLp2RccPPIo)
